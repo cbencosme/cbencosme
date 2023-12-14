@@ -6,7 +6,7 @@ Welcome to my coding journey! 🚀 I'm on a mission to transition my years in th
 
 ## About Me
 
-- 🎓 Currently completing Google Data Analytics Certifcate Course & Pythin
+- 🎓 Currently completing Google Data Analytics Certifcate Course & Python
 - 💻 Exploring various tech domains like Web Development, Data Science, and more
 - 📚 Open to collaboration on projects to gain hands-on experience
 - 🌐 Seeking opportunities to connect with mentors and fellow learners
