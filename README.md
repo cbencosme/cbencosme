@@ -18,9 +18,11 @@ Welcome to my coding journey! 🚀 I'm on a mission to transition my years in th
 
 ## Projects
 
-### [Project Name 1]
-
-[Short Description]
+Covid_Data_Project - completed 12/19/2023
+COVID-19 Data Analysis project leveraging SQL to explore, analyze, and derive meaningful insights from datasets related to the ongoing global pandemic. 
+The project encompasses data from multiple sources, including COVID cases, deaths, vaccinations, and regional statistics. 
+Using SQL queries and transformations, we aim to uncover patterns, trends, and key metrics to better understand the impact of the virus.
+Data Source: https://ourworldindata.org/covid-deaths
 
 [GitHub Repository Link]
 
