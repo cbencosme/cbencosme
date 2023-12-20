@@ -23,6 +23,7 @@ COVID-19 Data Analysis project leveraging SQL to explore, analyze, and derive me
 The project encompasses data from multiple sources, including COVID cases, deaths, vaccinations, and regional statistics. 
 Using SQL queries and transformations, we aim to uncover patterns, trends, and key metrics to better understand the impact of the virus.
 Data Source: https://ourworldindata.org/covid-deaths
+
 https://github.com/cbencosme/PortfolioProjects.git
 
 ### [Project Name 2]
